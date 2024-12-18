@@ -10,6 +10,13 @@ Configure Tailwind into Our App
 # Features of Netflix-GPT
 
 - Sign Up Sigin Page
+- Form Validations
+    - useRef Hook
+- Firebase Setup
+- Deploying Project in Firebase
+- Sign Up User Account
+- Authentication (Google Firebase)
+
 
 - Browse Page (after Authentication)
  - Header
